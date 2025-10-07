@@ -28,7 +28,7 @@ The dataset is based on the [Kaggle Dogs vs Cats dataset](https://www.kaggle.com
 
 - 📦 Image preprocessing and normalization using `ImageDataGenerator`  
 - 🧠 CNN model built from scratch using Keras Sequential API  
-- 🔄 Data augmentation to improve generalization and reduce overfitting  
+- 🔄 Batch normalization & Dropout to improve generalization and reduce overfitting  
 - 📊 Model evaluation with training/test accuracy and loss visualization  
 - 🐕 Prediction on an unseen dog image  
 
