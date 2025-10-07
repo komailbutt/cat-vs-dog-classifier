@@ -15,7 +15,7 @@ The model achieves high accuracy and can predict unseen images, demonstrating th
 
 ## 📂 Dataset
 
-The dataset is based on the [Kaggle Dogs vs Cats dataset](https://www.kaggle.com/c/dogs-vs-cats/data).
+The dataset is based on the [Kaggle Dogs vs Cats dataset](https://www.kaggle.com/datasets/salader/dogsvscats/data).
 
 ### Directory Structure
 - **Train set:** Used for model training  
