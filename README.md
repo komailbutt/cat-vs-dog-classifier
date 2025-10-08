@@ -40,7 +40,18 @@ A simple yet effective **Convolutional Neural Network (CNN)** built from scratch
 - **Activation Functions:** ReLU (hidden layers), Sigmoid (output)  
 - **Loss Function:** Binary Crossentropy  
 - **Optimizer:** Adam  
-- **Metric:** Accuracy  
+- **Metric:** Accuracy
+
+---
+
+
+## 📈 Results
+
+| Metric | Value |
+|:--|:--|
+| Test Accuracy | ~87% |
+| Training Time | ≈ 12-14 min (GPU) |
+
 
 This architecture balances simplicity and performance, suitable for small to medium-sized image datasets.
 
