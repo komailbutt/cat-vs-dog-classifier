@@ -20,7 +20,7 @@ The dataset is based on the [Kaggle Dogs vs Cats dataset](https://www.kaggle.com
 ### Directory Structure
 - **Train set:** Used for model training  
 - **Test set:** Used for model evaluation  
-- **Unseen image:** A separate image (`unseen_dog.jpg`) used to demonstrate model generalization  
+- **Unseen image:** A separate image (`dog.jpg`) used to demonstrate model generalization  
 
 ---
 
